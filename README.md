@@ -238,4 +238,4 @@ GPU acceleration is not required for this dataset.
 ## Author
 
 Negin Hadad  
-University of Oulu, Oulu, Finland
+MSc. student at University of Oulu, Oulu, Finland

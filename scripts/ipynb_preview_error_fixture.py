@@ -2,7 +2,7 @@
     How To Use:
     1. Save this script as ipynb_preview_error_fixture.py
     2. Run the script from the command line:
-        python ./scripts/ipynb_preview_error_fixture.py '..\notebooks\hydrogen_leakage_detection.ipynb'
+        python ./scripts/ipynb_preview_error_fixture.py './notebooks/hydrogen_leakage_detection.ipynb'
 """
 
 import json
