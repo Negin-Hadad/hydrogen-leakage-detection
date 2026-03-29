@@ -83,7 +83,7 @@ Targets:
 import joblib
 import pandas as pd
 
-bundle = joblib.load("hydrogen_leakage_prediction_model.pkl")
+bundle = joblib.load("hydrogen_leakage_prediction_model_single_sensor.pkl")
 
 sample = pd.DataFrame([{
     "time (s)": 120,
